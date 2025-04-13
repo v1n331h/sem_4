@@ -1,3 +1,5 @@
+alpha beta pruning
+
 import math
 def alpha_beta_pruning(depth, node_index, maximizing_player, values, alpha, beta):
     if depth == 3:
